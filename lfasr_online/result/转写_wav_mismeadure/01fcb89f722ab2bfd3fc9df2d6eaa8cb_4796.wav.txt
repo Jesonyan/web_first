@@ -1,5 +1,0 @@
-speaker: 0:   自己辩白。
-speaker: 0:   你有什么想说的吗？
-speaker: 0:   听了她的话，我感觉今则像是在提醒我，
-speaker: 0:   我还有机会，
-speaker: 0:   这让我。

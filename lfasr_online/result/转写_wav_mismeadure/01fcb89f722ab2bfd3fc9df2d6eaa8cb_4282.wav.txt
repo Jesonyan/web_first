@@ -1,6 +1,0 @@
-speaker: 0:   虽然我不知道金泽的话几分真假，
-speaker: 0:   但他说的确实
-speaker: 0:   有道理。
-speaker: 0:   要是真。
-speaker: 0:   想抓我的话，
-speaker: 0:   他们有足。

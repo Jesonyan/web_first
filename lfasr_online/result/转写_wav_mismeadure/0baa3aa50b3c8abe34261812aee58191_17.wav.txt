@@ -1,4 +1,0 @@
-speaker: 0:   王乐。
-speaker: 0:   王玉太贵了，唉可鸡巴贵了，跟你讲！
-speaker: 0:   上不起！
-speaker: 0:   网鱼上网，那么what？
