@@ -1,0 +1,4 @@
+speaker: 0:   黑木耳还好！
+speaker: 0:   吗？
+speaker: 0:   我估计他黑莫有可能都冻僵了，有可能都。
+speaker: 0:   他黑木耳嗯。
